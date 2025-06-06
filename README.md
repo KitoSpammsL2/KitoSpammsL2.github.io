@@ -9,7 +9,7 @@
 
 ## 6.6
 
-Ich habe schon mein Projekt gestartet gehabt also ich habe schon im Modul 293 mit einer art portolio über mich begonnen
+Ich habe schon mein Projekt gestartet gehabt also ich habe schon im Modul 293 mit einer art portolio über mich begonnen also habe ich schon einbischen code aber heute habe ich mein profilbild hinzugefügt und den den text noch geänder aber vorallem habe ich die seite von 
 
 ☝️ Vergessen Sie nicht, Ihr angepasstes `index.html` und eine Datei mit Ihren Texten hochzuladen.
 
