@@ -4,7 +4,9 @@
 
 ## Grob-Planung
 
-<img src="(https://github.com/user-attachments/assets/58260d73-9086-4668-9c74-142c41733600)" width="277">
+
+<img src="https://github.com/user-attachments/assets/6ed134ff-38d7-45ef-8838-11bf9671db54" width="277">
+
 ## 6.6
 
 ✍️ Heute habe ich... (50-100 Wörter)
