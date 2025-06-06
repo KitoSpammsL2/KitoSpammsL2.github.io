@@ -9,16 +9,16 @@
 
 ## 6.6
 
-Ich habe schon mein Projekt gestartet gehabt also ich habe schon im Modul 293 mit einer art portolio über mich begonnen also habe ich schon einbischen code aber heute habe ich mein profilbild hinzugefügt und den den text noch geänder aber vorallem habe ich die seite von 
+Ich habe mein Projekt eigentlich schon gestartet, also im Modul 293 habe ich schon mit einer Art Portfolio über mich angefangen. Ich hatte auch schon ein bisschen Code, aber heute habe ich mein Profilbild hinzugefügt und den Text noch geändert. Vor allem habe ich mir die Webseite von Brittany Chiang angeschaut und mich davon inspirieren lassen. Ich habe heute auch mit dem Teil über meine Hobbys angefangen, aber mein Design gefällt mir gar nicht. Das muss ich auf jeden Fall noch ändern.
 
 ☝️ Vergessen Sie nicht, Ihr angepasstes `index.html` und eine Datei mit Ihren Texten hochzuladen.
 
 ## 13.6
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Meine Hobbys besser beschreiben 
+- [ ] Vielleicht Bilder hinzufügen. 
+- [ ] Allgemein alles visuel neu gestallten es gefällt mir noch nicht so ganz.
+- [ ] Ich will auch noch so ein Easter Egg machen. 
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
