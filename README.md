@@ -4,8 +4,7 @@
 
 ## Grob-Planung
 
-> Fügen Sie hier ein Foto Ihres handgezeichnete Entwurfes ein, wie Ihre Start-Seite aussehen könnte.
-
+<img src="(https://github.com/user-attachments/assets/58260d73-9086-4668-9c74-142c41733600)" width="277">
 ## 6.6
 
 ✍️ Heute habe ich... (50-100 Wörter)
