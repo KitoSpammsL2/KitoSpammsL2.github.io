@@ -9,7 +9,7 @@
 
 ## 6.6
 
-✍️ Heute habe ich... (50-100 Wörter)
+Ich habe schon mein Projekt gestartet gehabt also ich habe schon im Modul 293 mit einer art portolio über mich begonnen
 
 ☝️ Vergessen Sie nicht, Ihr angepasstes `index.html` und eine Datei mit Ihren Texten hochzuladen.
 
