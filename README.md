@@ -18,7 +18,7 @@ Ich habe mein Projekt eigentlich schon gestartet, also im Modul 293 habe ich sch
 - [ ] Meine Hobbys besser beschreiben 
 - [ ] Vielleicht Bilder hinzufügen. 
 - [ ] Allgemein alles visuel neu gestallten es gefällt mir noch nicht so ganz.
-- [ ] Ich will auch noch so ein Easter Egg machen. 
+- [x] Ich will auch noch so ein Easter Egg machen. 
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
