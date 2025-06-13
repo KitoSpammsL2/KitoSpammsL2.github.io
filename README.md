@@ -16,12 +16,12 @@ Ich habe mein Projekt eigentlich schon gestartet, also im Modul 293 habe ich sch
 
 ## 13.6
 
-- [ ] Meine Hobbys besser beschreiben 
-- [ ] Vielleicht Bilder hinzufügen. 
-- [ ] Allgemein alles visuel neu gestallten es gefällt mir noch nicht so ganz.
+- [x] Meine Projekte beschrieben
+- [x] Extra seite für meine Projekte machen.
+- [x] Mit GitHub verbinden. 
 - [x] Ich will auch noch so ein Easter Egg machen. 
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️Heute hab ich auf der Startseite meine besten Projekte vorgestellt. Außerdem hab ich extra noch einen Button gemacht, wo draufsteht „Mehr anzeigen“. Wenn man da draufklickt, kommt man direkt zu meinen Projekten. Da hab ich auch meinen GitHub verlinkt, damit man sich alles genauer angucken kann, falls es jemanden interessiert.
 
 ☝️ Vergessen Sie nicht, Ihre angepasste Website auf github hochzuladen
 
