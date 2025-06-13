@@ -1,16 +1,12 @@
 # Eigene Start-Seite
 
-LInk zu Meiner Web-Seite
-      |
-      |
-    __|__  
-    \   /
-     \ /
-      v
- 
+<h3 style="color: red;"> Link zu meiner Webseite </h3>
+
+<img src="https://github.com/user-attachments/assets/81ecf001-8b89-4d9b-a872-a1bbcfe7e736" width="130">
+
+
 http://127.0.0.1:5500/Website/index.html
 
-6.6 bis 27.6
 
 ## Grob-Planung
 
