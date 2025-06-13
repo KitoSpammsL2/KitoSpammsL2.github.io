@@ -1,4 +1,13 @@
 # Eigene Start-Seite
+
+LInk zu Meiner Web-Seite
+      |
+      |
+    __|__  
+    \   /
+     \ /
+      v
+ 
 http://127.0.0.1:5500/Website/index.html
 
 6.6 bis 27.6
