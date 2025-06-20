@@ -5,7 +5,7 @@
 <img src="https://github.com/user-attachments/assets/81ecf001-8b89-4d9b-a872-a1bbcfe7e736" width="130">
 
 
-http://127.0.0.1:5500/Website/index.html
+https://kitospammsl2.github.io/
 
 
 ## Grob-Planung
