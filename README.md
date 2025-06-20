@@ -32,22 +32,22 @@ Ich habe mein Projekt eigentlich schon gestartet, also im Modul 293 habe ich sch
 
 ## 20.7
 
-- [ ] Ich will meine andere Web-seite veröffentlichen damit ich das noch verlinken kann und man einfach auf das Projekt clicken kann wie beim GitHub
-- [ ] Extra seite zu Schach wo ich das Projekt genau beschreiben will.
-   - [ ] Genauere Bilder
+- [x] Ich will meine andere Web-seite veröffentlichen damit ich das noch verlinken kann und man einfach auf das Projekt clicken kann wie beim GitHub
+- [x] Extra seite zu Schach wo ich das Projekt genau beschreiben will.
+   - [x] Genauere Bilder
    - [ ] SQL beschreiben
    - [ ] Eine Art wie github. Ich werde es ähnlich machen wie auf github. 
 - [ ] Neue Platzhalter für zuküntige Projekte. 
 
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️Heute habe ich die Parfumwebseite verlinkt. Auch habe ich eine neue Seite begonnen, aber ich bin noch nicht sehr weit, ich habe erst die ungefaehren Grundrisse. Ich muss noch viel an der Webseite machen, die Bilder gleich gross machen und das Projekt genauer beschreiben.
 
 ☝️ Vergessen Sie nicht, Ihre angepasste Website auf github hochzuladen
 
 ## 27.7 Abschluss
 
-- [ ] ...
-- [ ] ...
+- [ ] Die Schach Seite besser zu beschreiben. 
+- [ ] DIe Schachbilder alle gleichmässgi zu machen 
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
